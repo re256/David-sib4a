@@ -2,7 +2,7 @@ import Mainmenu from "./components/mainmenu";
 import General from "./components/general";
 import Account from "./components/account";
 
-export default function test() {
+export default function uts() {
   return (
   <section className="flex min-h-screen p-8 gap-8 font-sans">
       

@@ -1,4 +1,4 @@
-export default function TaskPage() {
+export default function navbarPage() {
   return (
   <section className="min-h-screen bg-gray-100 flex flex-col items-center justify-center gap-4 p-8 font-sans">
     
